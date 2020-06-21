@@ -1,0 +1,951 @@
+
+
+============================================================
+S:\OtherGames\iRacing\updater\iRacingUpdater.exe
+2020-06-17 17:40:12
+===================
+OS: Maj: 6, Min: 2, SPMaj: 0, SPMin: 0; Windows 7 - x64
+** Program is running as a user with admin privs
+** Token is elevated
+** Token is elevated to Full
+
+DeleteTempExe: I am <S:\OtherGames\iRacing\updater\iRacingUpdater.exe>
+DeleteTempExe: <S:\OtherGames\iRacing\updater\iRacingUpdater.tmp.exe> is readonly - attrs = 0x21
+DeleteTempExe: Removed temp exe <S:\OtherGames\iRacing\updater\iRacingUpdater.tmp.exe>
+DeleteTempExe: <S:\OtherGames\iRacing\updater\iRacingUpdater.tmp.sgn> is readonly - attrs = 0x21
+DeleteTempExe: Removed temp sgn <S:\OtherGames\iRacing\updater\iRacingUpdater.tmp.sgn>
+DeleteTempExe: <S:\OtherGames\iRacing\updater\version.txt.tmp> is readonly - attrs = 0x21
+DeleteTempExe: Removed temp ver <S:\OtherGames\iRacing\updater\version.txt.tmp>
+DeleteTempExe: exe, sgn and ver temps are now missing - done!
+UpdateState: All files downloaded - begin updating
+STATUS: Starting updater thread...
+
+UpdateState: Switched to State_Updating
+Updater Thread Started!
+STATUS: Updating thread started...
+
+PkgUpdater::SetRootPath("S:\OtherGames\iRacing\")
+STATUS: Preparing packages...
+
+File: /updates/system_2020.06.16.01_2020.06.05.02.pkg    Path: \                                        Version: 2020.06.16.01    fromVersion: 2020.06.05.02
+File: /updates/cars_2020.06.15.01_2020.06.04.01.pkg      Path: cars\                                    Version: 2020.06.15.01    fromVersion: 2020.06.04.01
+File: /updates/cars_astonmartin_dbr9_2020.06.12.02_2020.06.05.01.pkg Path: cars\astonmartin\dbr9\                   Version: 2020.06.12.02    fromVersion: 2020.06.05.01
+File: /updates/cars_audirs3lms_2020.06.10.01_2020.06.04.01.pkg Path: cars\audirs3lms\                         Version: 2020.06.10.01    fromVersion: 2020.06.04.01
+File: /updates/cars_bmwm4gt4_2020.06.10.01_2020.06.05.01.pkg Path: cars\bmwm4gt4\                           Version: 2020.06.10.01    fromVersion: 2020.06.05.01
+File: /updates/cars_c6r_2020.06.12.02_2020.06.05.01.pkg  Path: cars\c6r\                                Version: 2020.06.12.02    fromVersion: 2020.06.05.01
+File: /updates/cars_dallarair18_2020.06.12.02_2020.06.05.01.pkg Path: cars\dallarair18\                        Version: 2020.06.12.02    fromVersion: 2020.06.05.01
+File: /updates/cars_dirtsprint_winged_2020.06.10.01_2020.06.04.01.pkg Path: cars\dirtsprint\winged\                  Version: 2020.06.10.01    fromVersion: 2020.06.04.01
+File: /updates/cars_fordgt_2020.06.12.02_2020.06.04.01.pkg Path: cars\fordgt\                             Version: 2020.06.12.02    fromVersion: 2020.06.04.01
+File: /updates/cars_fr500s_2020.06.12.02_2020.06.05.01.pkg Path: cars\fr500s\                             Version: 2020.06.12.02    fromVersion: 2020.06.05.01
+File: /updates/cars_hpdarx01c_2020.06.10.01_2020.06.04.01.pkg Path: cars\hpdarx01c\                          Version: 2020.06.10.01    fromVersion: 2020.06.04.01
+File: /updates/cars_indypropm18_2020.06.16.01_2020.06.04.01.pkg Path: cars\indypropm18\                        Version: 2020.06.16.01    fromVersion: 2020.06.04.01
+File: /updates/cars_mercedesamggt3_2020.06.12.02_2020.06.04.01.pkg Path: cars\mercedesamggt3\                     Version: 2020.06.12.02    fromVersion: 2020.06.04.01
+File: /updates/cars_porsche718gt4_2020.06.12.02_2020.06.05.01.pkg Path: cars\porsche718gt4\                      Version: 2020.06.12.02    fromVersion: 2020.06.05.01
+File: /updates/cars_porsche919_2020.06.12.02_2020.06.05.01.pkg Path: cars\porsche919\                         Version: 2020.06.12.02    fromVersion: 2020.06.05.01
+File: /updates/cars_rufrt12r_2020.06.12.02_2020.06.04.01.pkg Path: cars\rufrt12r\                           Version: 2020.06.12.02    fromVersion: 2020.06.04.01
+File: /updates/cars_sprint_2020.06.10.01_2020.06.04.01.pkg Path: cars\sprint\                             Version: 2020.06.10.01    fromVersion: 2020.06.04.01
+File: /updates/cars_stockcars_2020.06.12.02_2020.06.04.01.pkg Path: cars\stockcars\                          Version: 2020.06.12.02    fromVersion: 2020.06.04.01
+File: /updates/cars_stockcars_camarozl12018_2020.06.15.01_2020.06.05.02.pkg Path: cars\stockcars\camarozl12018\            Version: 2020.06.15.01    fromVersion: 2020.06.05.02
+File: /updates/cars_stockcars_fordmustang2019_2020.06.15.01_2020.06.05.02.pkg Path: cars\stockcars\fordmustang2019\          Version: 2020.06.15.01    fromVersion: 2020.06.05.02
+File: /updates/cars_stockcars_toyotacamry_2020.06.15.01_2020.06.05.02.pkg Path: cars\stockcars\toyotacamry\              Version: 2020.06.15.01    fromVersion: 2020.06.05.02
+File: /updates/cars_stockcars2_camaro2019_2020.06.15.01_2020.06.01.03.pkg Path: cars\stockcars2\camaro2019\              Version: 2020.06.15.01    fromVersion: 2020.06.01.03
+File: /updates/cars_stockcars2_mustang2019_2020.06.15.01_2020.06.01.03.pkg Path: cars\stockcars2\mustang2019\             Version: 2020.06.15.01    fromVersion: 2020.06.01.03
+File: /updates/cars_stockcars2_supra2019_2020.06.15.01_2020.06.01.03.pkg Path: cars\stockcars2\supra2019\               Version: 2020.06.15.01    fromVersion: 2020.06.01.03
+File: /updates/cars_streetstock_2020.06.10.01_2020.06.04.01.pkg Path: cars\streetstock\                        Version: 2020.06.10.01    fromVersion: 2020.06.04.01
+File: /updates/cars_superlatemodel_2020.06.12.02_2020.06.04.01.pkg Path: cars\superlatemodel\                     Version: 2020.06.12.02    fromVersion: 2020.06.04.01
+File: /updates/cars_trucks_fordf150_2020.06.15.01_2020.06.05.01.pkg Path: cars\trucks\fordf150\                    Version: 2020.06.15.01    fromVersion: 2020.06.05.01
+File: /updates/cars_trucks_silverado2019_2020.06.15.01_2020.06.04.01.pkg Path: cars\trucks\silverado2019\               Version: 2020.06.15.01    fromVersion: 2020.06.04.01
+File: /updates/cars_trucks_tundra2015_2020.06.15.01_2020.06.04.01.pkg Path: cars\trucks\tundra2015\                  Version: 2020.06.15.01    fromVersion: 2020.06.04.01
+File: /updates/cars_usf2000usf17_2020.06.16.01_2020.06.04.01.pkg Path: cars\usf2000usf17\                       Version: 2020.06.16.01    fromVersion: 2020.06.04.01
+File: /updates/cars_vwbeetlegrc_2020.06.12.02_2020.06.04.01.pkg Path: cars\vwbeetlegrc\                        Version: 2020.06.12.02    fromVersion: 2020.06.04.01
+File: /updates/httproot_2020.06.15.01_2020.05.26.01.pkg  Path: httproot\                                Version: 2020.06.15.01    fromVersion: 2020.05.26.01
+File: /updates/httproot_cars_bmwm4gt4_2020.06.10.01_2020.06.03.01.pkg Path: httproot\cars\bmwm4gt4\                  Version: 2020.06.10.01    fromVersion: 2020.06.03.01
+File: /updates/httproot_cars_dallarair18_2020.06.12.02_2020.05.26.01.pkg Path: httproot\cars\dallarair18\               Version: 2020.06.12.02    fromVersion: 2020.05.26.01
+File: /updates/httproot_cars_dirtsprint_winged_2020.06.10.01_2020.05.22.01.pkg Path: httproot\cars\dirtsprint\winged\         Version: 2020.06.10.01    fromVersion: 2020.05.22.01
+File: /updates/httproot_cars_stockcars_fordmustang2019_2020.06.10.01_2020.06.05.01.pkg Path: httproot\cars\stockcars\fordmustang2019\ Version: 2020.06.10.01    fromVersion: 2020.06.05.01
+File: /updates/httproot_cars_trucks_fordf150_2020.06.12.02_2020.06.01.03.pkg Path: httproot\cars\trucks\fordf150\           Version: 2020.06.12.02    fromVersion: 2020.06.01.03
+File: /updates/httproot_cars_trucks_silverado2019_2020.06.12.02_2020.06.01.03.pkg Path: httproot\cars\trucks\silverado2019\      Version: 2020.06.12.02    fromVersion: 2020.06.01.03
+File: /updates/tracks_2020.06.12.02_2020.06.01.03.pkg    Path: tracks\                                  Version: 2020.06.12.02    fromVersion: 2020.06.01.03
+File: /updates/tracks_lagunaseca_2020.06.16.01_2020.06.01.03.pkg Path: tracks\lagunaseca\                       Version: 2020.06.16.01    fromVersion: 2020.06.01.03
+File: /updates/tracks_lemans_2020.06.16.01_2020.06.05.01.pkg Path: tracks\lemans\                           Version: 2020.06.16.01    fromVersion: 2020.06.05.01
+File: /updates/tracks_limerock_2019_2020.06.10.01_2020.06.01.03.pkg Path: tracks\limerock\2019\                    Version: 2020.06.10.01    fromVersion: 2020.06.01.03
+File: /updates/tracks_nurburgring_combined_2020.06.15.01_2020.05.22.01.pkg Path: tracks\nurburgring\                      Version: 2020.06.15.01    fromVersion: 2020.05.22.01
+File: /updates/tracks_roadatlanta_2020.06.10.01_2020.06.01.03.pkg Path: tracks\roadatlanta\                      Version: 2020.06.10.01    fromVersion: 2020.06.01.03
+File: /updates/updater_2020.06.16.01.pkg                 Path: updater\                                 Version: 2020.06.16.01    fromVersion: 
+STATUS: Checking for Updater packages...
+
+pkg up-to-date or old: /updates/updater_2020.06.16.01.pkg, current 2020.06.16.01
+STATUS: Verifying Downloaded Files...
+
+/updates/system_2020.06.16.01_2020.06.05.02.pkg
+/updates/cars_2020.06.15.01_2020.06.04.01.pkg
+/updates/cars_astonmartin_dbr9_2020.06.12.02_2020.06.05.01.pkg
+...  4% overall
+/updates/cars_audirs3lms_2020.06.10.01_2020.06.04.01.pkg
+...  6% overall
+/updates/cars_bmwm4gt4_2020.06.10.01_2020.06.05.01.pkg
+...  8% overall
+/updates/cars_c6r_2020.06.12.02_2020.06.05.01.pkg
+... 11% overall
+/updates/cars_dallarair18_2020.06.12.02_2020.06.05.01.pkg
+... 13% overall
+/updates/cars_dirtsprint_winged_2020.06.10.01_2020.06.04.01.pkg
+... 15% overall
+/updates/cars_fordgt_2020.06.12.02_2020.06.04.01.pkg
+... 17% overall
+/updates/cars_fr500s_2020.06.12.02_2020.06.05.01.pkg
+... 20% overall
+/updates/cars_hpdarx01c_2020.06.10.01_2020.06.04.01.pkg
+... 22% overall
+/updates/cars_indypropm18_2020.06.16.01_2020.06.04.01.pkg
+... 24% overall
+/updates/cars_mercedesamggt3_2020.06.12.02_2020.06.04.01.pkg
+... 26% overall
+/updates/cars_porsche718gt4_2020.06.12.02_2020.06.05.01.pkg
+... 28% overall
+/updates/cars_porsche919_2020.06.12.02_2020.06.05.01.pkg
+... 31% overall
+/updates/cars_rufrt12r_2020.06.12.02_2020.06.04.01.pkg
+... 33% overall
+/updates/cars_sprint_2020.06.10.01_2020.06.04.01.pkg
+... 35% overall
+/updates/cars_stockcars_2020.06.12.02_2020.06.04.01.pkg
+... 37% overall
+/updates/cars_stockcars_camarozl12018_2020.06.15.01_2020.06.05.02.pkg
+... 40% overall
+/updates/cars_stockcars_fordmustang2019_2020.06.15.01_2020.06.05.02.pkg
+... 42% overall
+/updates/cars_stockcars_toyotacamry_2020.06.15.01_2020.06.05.02.pkg
+... 44% overall
+/updates/cars_stockcars2_camaro2019_2020.06.15.01_2020.06.01.03.pkg
+... 46% overall
+/updates/cars_stockcars2_mustang2019_2020.06.15.01_2020.06.01.03.pkg
+... 48% overall
+/updates/cars_stockcars2_supra2019_2020.06.15.01_2020.06.01.03.pkg
+... 51% overall
+/updates/cars_streetstock_2020.06.10.01_2020.06.04.01.pkg
+... 53% overall
+/updates/cars_superlatemodel_2020.06.12.02_2020.06.04.01.pkg
+... 55% overall
+/updates/cars_trucks_fordf150_2020.06.15.01_2020.06.05.01.pkg
+... 57% overall
+/updates/cars_trucks_silverado2019_2020.06.15.01_2020.06.04.01.pkg
+... 60% overall
+/updates/cars_trucks_tundra2015_2020.06.15.01_2020.06.04.01.pkg
+... 62% overall
+/updates/cars_usf2000usf17_2020.06.16.01_2020.06.04.01.pkg
+... 64% overall
+/updates/cars_vwbeetlegrc_2020.06.12.02_2020.06.04.01.pkg
+... 66% overall
+/updates/httproot_2020.06.15.01_2020.05.26.01.pkg
+... 68% overall
+/updates/httproot_cars_bmwm4gt4_2020.06.10.01_2020.06.03.01.pkg
+... 71% overall
+/updates/httproot_cars_dallarair18_2020.06.12.02_2020.05.26.01.pkg
+... 73% overall
+/updates/httproot_cars_dirtsprint_winged_2020.06.10.01_2020.05.22.01.pkg
+... 75% overall
+/updates/httproot_cars_stockcars_fordmustang2019_2020.06.10.01_2020.06.05.01.pkg
+... 77% overall
+/updates/httproot_cars_trucks_fordf150_2020.06.12.02_2020.06.01.03.pkg
+... 80% overall
+/updates/httproot_cars_trucks_silverado2019_2020.06.12.02_2020.06.01.03.pkg
+... 82% overall
+/updates/tracks_2020.06.12.02_2020.06.01.03.pkg
+... 84% overall
+/updates/tracks_lagunaseca_2020.06.16.01_2020.06.01.03.pkg
+... 86% overall
+/updates/tracks_lemans_2020.06.16.01_2020.06.05.01.pkg
+... 88% overall
+/updates/tracks_limerock_2019_2020.06.10.01_2020.06.01.03.pkg
+... 91% overall
+/updates/tracks_nurburgring_combined_2020.06.15.01_2020.05.22.01.pkg
+... 93% overall
+/updates/tracks_roadatlanta_2020.06.10.01_2020.06.01.03.pkg
+... 95% overall
+STATUS: Updating...
+
+...  0% overall
+STATUS: Updating...
+/updates/system_2020.06.16.01_2020.06.05.02.pkg
+package: \   toVersion: 2020.06.16.01  fromVersion: 2020.06.05.02   currentVersion: 2020.06.05.02   OK TO INSTALL
+STATUS: Updating...
+/updates/cars_2020.06.15.01_2020.06.04.01.pkg
+package: cars\   toVersion: 2020.06.15.01  fromVersion: 2020.06.04.01   currentVersion: 2020.06.04.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+STATUS: Updating... Creating new files
+... 25% /updates/cars_2020.06.15.01_2020.06.04.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_2020.06.15.01_2020.06.04.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_2020.06.15.01_2020.06.04.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_2020.06.15.01_2020.06.04.01.pkg
+STATUS: Updating...
+/updates/cars_astonmartin_dbr9_2020.06.12.02_2020.06.05.01.pkg
+package: cars\astonmartin\dbr9\   toVersion: 2020.06.12.02  fromVersion: 2020.06.05.01   currentVersion: 2020.06.05.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_astonmartin_dbr9_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_astonmartin_dbr9_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_astonmartin_dbr9_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_astonmartin_dbr9_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_astonmartin_dbr9_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating...
+/updates/cars_audirs3lms_2020.06.10.01_2020.06.04.01.pkg
+...  4% overall
+package: cars\audirs3lms\   toVersion: 2020.06.10.01  fromVersion: 2020.06.04.01   currentVersion: 2020.06.04.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_audirs3lms_2020.06.10.01_2020.06.04.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_audirs3lms_2020.06.10.01_2020.06.04.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_audirs3lms_2020.06.10.01_2020.06.04.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_audirs3lms_2020.06.10.01_2020.06.04.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_audirs3lms_2020.06.10.01_2020.06.04.01.pkg
+STATUS: Updating...
+/updates/cars_bmwm4gt4_2020.06.10.01_2020.06.05.01.pkg
+...  6% overall
+package: cars\bmwm4gt4\   toVersion: 2020.06.10.01  fromVersion: 2020.06.05.01   currentVersion: 2020.06.05.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_bmwm4gt4_2020.06.10.01_2020.06.05.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_bmwm4gt4_2020.06.10.01_2020.06.05.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_bmwm4gt4_2020.06.10.01_2020.06.05.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_bmwm4gt4_2020.06.10.01_2020.06.05.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_bmwm4gt4_2020.06.10.01_2020.06.05.01.pkg
+STATUS: Updating...
+/updates/cars_c6r_2020.06.12.02_2020.06.05.01.pkg
+...  8% overall
+package: cars\c6r\   toVersion: 2020.06.12.02  fromVersion: 2020.06.05.01   currentVersion: 2020.06.05.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_c6r_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_c6r_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_c6r_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_c6r_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_c6r_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating...
+/updates/cars_dallarair18_2020.06.12.02_2020.06.05.01.pkg
+... 11% overall
+package: cars\dallarair18\   toVersion: 2020.06.12.02  fromVersion: 2020.06.05.01   currentVersion: 2020.06.05.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_dallarair18_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_dallarair18_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_dallarair18_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_dallarair18_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_dallarair18_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating...
+/updates/cars_dirtsprint_winged_2020.06.10.01_2020.06.04.01.pkg
+... 13% overall
+package: cars\dirtsprint\winged\   toVersion: 2020.06.10.01  fromVersion: 2020.06.04.01   currentVersion: 2020.06.04.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_dirtsprint_winged_2020.06.10.01_2020.06.04.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_dirtsprint_winged_2020.06.10.01_2020.06.04.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_dirtsprint_winged_2020.06.10.01_2020.06.04.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_dirtsprint_winged_2020.06.10.01_2020.06.04.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_dirtsprint_winged_2020.06.10.01_2020.06.04.01.pkg
+STATUS: Updating...
+/updates/cars_fordgt_2020.06.12.02_2020.06.04.01.pkg
+... 15% overall
+package: cars\fordgt\   toVersion: 2020.06.12.02  fromVersion: 2020.06.04.01   currentVersion: 2020.06.04.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_fordgt_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_fordgt_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_fordgt_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_fordgt_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_fordgt_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating...
+/updates/cars_fr500s_2020.06.12.02_2020.06.05.01.pkg
+... 17% overall
+package: cars\fr500s\   toVersion: 2020.06.12.02  fromVersion: 2020.06.05.01   currentVersion: 2020.06.05.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_fr500s_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_fr500s_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_fr500s_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_fr500s_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_fr500s_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating...
+/updates/cars_hpdarx01c_2020.06.10.01_2020.06.04.01.pkg
+... 20% overall
+package: cars\hpdarx01c\   toVersion: 2020.06.10.01  fromVersion: 2020.06.04.01   currentVersion: 2020.06.04.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_hpdarx01c_2020.06.10.01_2020.06.04.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_hpdarx01c_2020.06.10.01_2020.06.04.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_hpdarx01c_2020.06.10.01_2020.06.04.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_hpdarx01c_2020.06.10.01_2020.06.04.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_hpdarx01c_2020.06.10.01_2020.06.04.01.pkg
+STATUS: Updating...
+/updates/cars_indypropm18_2020.06.16.01_2020.06.04.01.pkg
+... 22% overall
+package: cars\indypropm18\   toVersion: 2020.06.16.01  fromVersion: 2020.06.04.01   currentVersion: 2020.06.04.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_indypropm18_2020.06.16.01_2020.06.04.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_indypropm18_2020.06.16.01_2020.06.04.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_indypropm18_2020.06.16.01_2020.06.04.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_indypropm18_2020.06.16.01_2020.06.04.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_indypropm18_2020.06.16.01_2020.06.04.01.pkg
+STATUS: Updating...
+/updates/cars_mercedesamggt3_2020.06.12.02_2020.06.04.01.pkg
+... 24% overall
+package: cars\mercedesamggt3\   toVersion: 2020.06.12.02  fromVersion: 2020.06.04.01   currentVersion: 2020.06.04.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_mercedesamggt3_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_mercedesamggt3_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_mercedesamggt3_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_mercedesamggt3_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_mercedesamggt3_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating...
+/updates/cars_porsche718gt4_2020.06.12.02_2020.06.05.01.pkg
+... 26% overall
+package: cars\porsche718gt4\   toVersion: 2020.06.12.02  fromVersion: 2020.06.05.01   currentVersion: 2020.06.05.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_porsche718gt4_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_porsche718gt4_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_porsche718gt4_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_porsche718gt4_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_porsche718gt4_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating...
+/updates/cars_porsche919_2020.06.12.02_2020.06.05.01.pkg
+... 28% overall
+package: cars\porsche919\   toVersion: 2020.06.12.02  fromVersion: 2020.06.05.01   currentVersion: 2020.06.05.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_porsche919_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_porsche919_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_porsche919_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_porsche919_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_porsche919_2020.06.12.02_2020.06.05.01.pkg
+STATUS: Updating...
+/updates/cars_rufrt12r_2020.06.12.02_2020.06.04.01.pkg
+... 31% overall
+package: cars\rufrt12r\   toVersion: 2020.06.12.02  fromVersion: 2020.06.04.01   currentVersion: 2020.06.04.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_rufrt12r_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_rufrt12r_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_rufrt12r_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_rufrt12r_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_rufrt12r_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating...
+/updates/cars_sprint_2020.06.10.01_2020.06.04.01.pkg
+... 33% overall
+package: cars\sprint\   toVersion: 2020.06.10.01  fromVersion: 2020.06.04.01   currentVersion: 2020.06.04.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_sprint_2020.06.10.01_2020.06.04.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_sprint_2020.06.10.01_2020.06.04.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_sprint_2020.06.10.01_2020.06.04.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_sprint_2020.06.10.01_2020.06.04.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_sprint_2020.06.10.01_2020.06.04.01.pkg
+STATUS: Updating...
+/updates/cars_stockcars_2020.06.12.02_2020.06.04.01.pkg
+... 35% overall
+package: cars\stockcars\   toVersion: 2020.06.12.02  fromVersion: 2020.06.04.01   currentVersion: 2020.06.04.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_stockcars_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_stockcars_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_stockcars_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_stockcars_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_stockcars_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating...
+/updates/cars_stockcars_camarozl12018_2020.06.15.01_2020.06.05.02.pkg
+... 37% overall
+package: cars\stockcars\camarozl12018\   toVersion: 2020.06.15.01  fromVersion: 2020.06.05.02   currentVersion: 2020.06.05.02   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_stockcars_camarozl12018_2020.06.15.01_2020.06.05.02.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_stockcars_camarozl12018_2020.06.15.01_2020.06.05.02.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_stockcars_camarozl12018_2020.06.15.01_2020.06.05.02.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_stockcars_camarozl12018_2020.06.15.01_2020.06.05.02.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_stockcars_camarozl12018_2020.06.15.01_2020.06.05.02.pkg
+STATUS: Updating...
+/updates/cars_stockcars_fordmustang2019_2020.06.15.01_2020.06.05.02.pkg
+... 40% overall
+package: cars\stockcars\fordmustang2019\   toVersion: 2020.06.15.01  fromVersion: 2020.06.05.02   currentVersion: 2020.06.05.02   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_stockcars_fordmustang2019_2020.06.15.01_2020.06.05.02.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_stockcars_fordmustang2019_2020.06.15.01_2020.06.05.02.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_stockcars_fordmustang2019_2020.06.15.01_2020.06.05.02.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_stockcars_fordmustang2019_2020.06.15.01_2020.06.05.02.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_stockcars_fordmustang2019_2020.06.15.01_2020.06.05.02.pkg
+STATUS: Updating...
+/updates/cars_stockcars_toyotacamry_2020.06.15.01_2020.06.05.02.pkg
+... 42% overall
+package: cars\stockcars\toyotacamry\   toVersion: 2020.06.15.01  fromVersion: 2020.06.05.02   currentVersion: 2020.06.05.02   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_stockcars_toyotacamry_2020.06.15.01_2020.06.05.02.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_stockcars_toyotacamry_2020.06.15.01_2020.06.05.02.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_stockcars_toyotacamry_2020.06.15.01_2020.06.05.02.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_stockcars_toyotacamry_2020.06.15.01_2020.06.05.02.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_stockcars_toyotacamry_2020.06.15.01_2020.06.05.02.pkg
+STATUS: Updating...
+/updates/cars_stockcars2_camaro2019_2020.06.15.01_2020.06.01.03.pkg
+... 44% overall
+package: cars\stockcars2\camaro2019\   toVersion: 2020.06.15.01  fromVersion: 2020.06.01.03   currentVersion: 2020.06.01.03   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_stockcars2_camaro2019_2020.06.15.01_2020.06.01.03.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_stockcars2_camaro2019_2020.06.15.01_2020.06.01.03.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_stockcars2_camaro2019_2020.06.15.01_2020.06.01.03.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_stockcars2_camaro2019_2020.06.15.01_2020.06.01.03.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_stockcars2_camaro2019_2020.06.15.01_2020.06.01.03.pkg
+STATUS: Updating...
+/updates/cars_stockcars2_mustang2019_2020.06.15.01_2020.06.01.03.pkg
+... 46% overall
+package: cars\stockcars2\mustang2019\   toVersion: 2020.06.15.01  fromVersion: 2020.06.01.03   currentVersion: 2020.06.01.03   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_stockcars2_mustang2019_2020.06.15.01_2020.06.01.03.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_stockcars2_mustang2019_2020.06.15.01_2020.06.01.03.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_stockcars2_mustang2019_2020.06.15.01_2020.06.01.03.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_stockcars2_mustang2019_2020.06.15.01_2020.06.01.03.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_stockcars2_mustang2019_2020.06.15.01_2020.06.01.03.pkg
+STATUS: Updating...
+/updates/cars_stockcars2_supra2019_2020.06.15.01_2020.06.01.03.pkg
+... 48% overall
+package: cars\stockcars2\supra2019\   toVersion: 2020.06.15.01  fromVersion: 2020.06.01.03   currentVersion: 2020.06.01.03   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_stockcars2_supra2019_2020.06.15.01_2020.06.01.03.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_stockcars2_supra2019_2020.06.15.01_2020.06.01.03.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_stockcars2_supra2019_2020.06.15.01_2020.06.01.03.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_stockcars2_supra2019_2020.06.15.01_2020.06.01.03.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_stockcars2_supra2019_2020.06.15.01_2020.06.01.03.pkg
+STATUS: Updating...
+/updates/cars_streetstock_2020.06.10.01_2020.06.04.01.pkg
+... 51% overall
+package: cars\streetstock\   toVersion: 2020.06.10.01  fromVersion: 2020.06.04.01   currentVersion: 2020.06.04.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_streetstock_2020.06.10.01_2020.06.04.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_streetstock_2020.06.10.01_2020.06.04.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_streetstock_2020.06.10.01_2020.06.04.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_streetstock_2020.06.10.01_2020.06.04.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_streetstock_2020.06.10.01_2020.06.04.01.pkg
+STATUS: Updating...
+/updates/cars_superlatemodel_2020.06.12.02_2020.06.04.01.pkg
+... 53% overall
+package: cars\superlatemodel\   toVersion: 2020.06.12.02  fromVersion: 2020.06.04.01   currentVersion: 2020.06.04.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_superlatemodel_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_superlatemodel_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_superlatemodel_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_superlatemodel_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_superlatemodel_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating...
+/updates/cars_trucks_fordf150_2020.06.15.01_2020.06.05.01.pkg
+... 55% overall
+package: cars\trucks\fordf150\   toVersion: 2020.06.15.01  fromVersion: 2020.06.05.01   currentVersion: 2020.06.05.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_trucks_fordf150_2020.06.15.01_2020.06.05.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_trucks_fordf150_2020.06.15.01_2020.06.05.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_trucks_fordf150_2020.06.15.01_2020.06.05.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_trucks_fordf150_2020.06.15.01_2020.06.05.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_trucks_fordf150_2020.06.15.01_2020.06.05.01.pkg
+STATUS: Updating...
+/updates/cars_trucks_silverado2019_2020.06.15.01_2020.06.04.01.pkg
+... 57% overall
+package: cars\trucks\silverado2019\   toVersion: 2020.06.15.01  fromVersion: 2020.06.04.01   currentVersion: 2020.06.04.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_trucks_silverado2019_2020.06.15.01_2020.06.04.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_trucks_silverado2019_2020.06.15.01_2020.06.04.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_trucks_silverado2019_2020.06.15.01_2020.06.04.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_trucks_silverado2019_2020.06.15.01_2020.06.04.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_trucks_silverado2019_2020.06.15.01_2020.06.04.01.pkg
+STATUS: Updating...
+/updates/cars_trucks_tundra2015_2020.06.15.01_2020.06.04.01.pkg
+... 60% overall
+package: cars\trucks\tundra2015\   toVersion: 2020.06.15.01  fromVersion: 2020.06.04.01   currentVersion: 2020.06.04.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_trucks_tundra2015_2020.06.15.01_2020.06.04.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_trucks_tundra2015_2020.06.15.01_2020.06.04.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_trucks_tundra2015_2020.06.15.01_2020.06.04.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_trucks_tundra2015_2020.06.15.01_2020.06.04.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_trucks_tundra2015_2020.06.15.01_2020.06.04.01.pkg
+STATUS: Updating...
+/updates/cars_usf2000usf17_2020.06.16.01_2020.06.04.01.pkg
+... 62% overall
+package: cars\usf2000usf17\   toVersion: 2020.06.16.01  fromVersion: 2020.06.04.01   currentVersion: 2020.06.04.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_usf2000usf17_2020.06.16.01_2020.06.04.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_usf2000usf17_2020.06.16.01_2020.06.04.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_usf2000usf17_2020.06.16.01_2020.06.04.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_usf2000usf17_2020.06.16.01_2020.06.04.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_usf2000usf17_2020.06.16.01_2020.06.04.01.pkg
+STATUS: Updating...
+/updates/cars_vwbeetlegrc_2020.06.12.02_2020.06.04.01.pkg
+... 64% overall
+package: cars\vwbeetlegrc\   toVersion: 2020.06.12.02  fromVersion: 2020.06.04.01   currentVersion: 2020.06.04.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_vwbeetlegrc_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_vwbeetlegrc_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_vwbeetlegrc_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_vwbeetlegrc_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_vwbeetlegrc_2020.06.12.02_2020.06.04.01.pkg
+STATUS: Updating...
+/updates/httproot_2020.06.15.01_2020.05.26.01.pkg
+... 66% overall
+package: httproot\   toVersion: 2020.06.15.01  fromVersion: 2020.05.26.01   currentVersion: 2020.05.26.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/httproot_2020.06.15.01_2020.05.26.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/httproot_2020.06.15.01_2020.05.26.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/httproot_2020.06.15.01_2020.05.26.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/httproot_2020.06.15.01_2020.05.26.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/httproot_2020.06.15.01_2020.05.26.01.pkg
+STATUS: Updating...
+/updates/httproot_cars_bmwm4gt4_2020.06.10.01_2020.06.03.01.pkg
+... 68% overall
+package: httproot\cars\bmwm4gt4\   toVersion: 2020.06.10.01  fromVersion: 2020.06.03.01   currentVersion: 2020.06.03.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/httproot_cars_bmwm4gt4_2020.06.10.01_2020.06.03.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/httproot_cars_bmwm4gt4_2020.06.10.01_2020.06.03.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/httproot_cars_bmwm4gt4_2020.06.10.01_2020.06.03.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/httproot_cars_bmwm4gt4_2020.06.10.01_2020.06.03.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/httproot_cars_bmwm4gt4_2020.06.10.01_2020.06.03.01.pkg
+STATUS: Updating...
+/updates/httproot_cars_dallarair18_2020.06.12.02_2020.05.26.01.pkg
+... 71% overall
+package: httproot\cars\dallarair18\   toVersion: 2020.06.12.02  fromVersion: 2020.05.26.01   currentVersion: 2020.05.26.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/httproot_cars_dallarair18_2020.06.12.02_2020.05.26.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/httproot_cars_dallarair18_2020.06.12.02_2020.05.26.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/httproot_cars_dallarair18_2020.06.12.02_2020.05.26.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/httproot_cars_dallarair18_2020.06.12.02_2020.05.26.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/httproot_cars_dallarair18_2020.06.12.02_2020.05.26.01.pkg
+STATUS: Updating...
+/updates/httproot_cars_dirtsprint_winged_2020.06.10.01_2020.05.22.01.pkg
+... 73% overall
+package: httproot\cars\dirtsprint\winged\   toVersion: 2020.06.10.01  fromVersion: 2020.05.22.01   currentVersion: 2020.05.22.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/httproot_cars_dirtsprint_winged_2020.06.10.01_2020.05.22.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/httproot_cars_dirtsprint_winged_2020.06.10.01_2020.05.22.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/httproot_cars_dirtsprint_winged_2020.06.10.01_2020.05.22.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/httproot_cars_dirtsprint_winged_2020.06.10.01_2020.05.22.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/httproot_cars_dirtsprint_winged_2020.06.10.01_2020.05.22.01.pkg
+STATUS: Updating...
+/updates/httproot_cars_stockcars_fordmustang2019_2020.06.10.01_2020.06.05.01.pkg
+... 75% overall
+package: httproot\cars\stockcars\fordmustang2019\   toVersion: 2020.06.10.01  fromVersion: 2020.06.05.01   currentVersion: 2020.06.05.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/httproot_cars_stockcars_fordmustang2019_2020.06.10.01_2020.06.05.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/httproot_cars_stockcars_fordmustang2019_2020.06.10.01_2020.06.05.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/httproot_cars_stockcars_fordmustang2019_2020.06.10.01_2020.06.05.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/httproot_cars_stockcars_fordmustang2019_2020.06.10.01_2020.06.05.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/httproot_cars_stockcars_fordmustang2019_2020.06.10.01_2020.06.05.01.pkg
+STATUS: Updating...
+/updates/httproot_cars_trucks_fordf150_2020.06.12.02_2020.06.01.03.pkg
+... 77% overall
+package: httproot\cars\trucks\fordf150\   toVersion: 2020.06.12.02  fromVersion: 2020.06.01.03   currentVersion: 2020.06.01.03   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/httproot_cars_trucks_fordf150_2020.06.12.02_2020.06.01.03.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/httproot_cars_trucks_fordf150_2020.06.12.02_2020.06.01.03.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/httproot_cars_trucks_fordf150_2020.06.12.02_2020.06.01.03.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/httproot_cars_trucks_fordf150_2020.06.12.02_2020.06.01.03.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/httproot_cars_trucks_fordf150_2020.06.12.02_2020.06.01.03.pkg
+STATUS: Updating...
+/updates/httproot_cars_trucks_silverado2019_2020.06.12.02_2020.06.01.03.pkg
+... 80% overall
+package: httproot\cars\trucks\silverado2019\   toVersion: 2020.06.12.02  fromVersion: 2020.06.01.03   currentVersion: 2020.06.01.03   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/httproot_cars_trucks_silverado2019_2020.06.12.02_2020.06.01.03.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/httproot_cars_trucks_silverado2019_2020.06.12.02_2020.06.01.03.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/httproot_cars_trucks_silverado2019_2020.06.12.02_2020.06.01.03.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/httproot_cars_trucks_silverado2019_2020.06.12.02_2020.06.01.03.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/httproot_cars_trucks_silverado2019_2020.06.12.02_2020.06.01.03.pkg
+STATUS: Updating...
+/updates/tracks_2020.06.12.02_2020.06.01.03.pkg
+... 82% overall
+package: tracks\   toVersion: 2020.06.12.02  fromVersion: 2020.06.01.03   currentVersion: 2020.06.01.03   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/tracks_2020.06.12.02_2020.06.01.03.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/tracks_2020.06.12.02_2020.06.01.03.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/tracks_2020.06.12.02_2020.06.01.03.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/tracks_2020.06.12.02_2020.06.01.03.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/tracks_2020.06.12.02_2020.06.01.03.pkg
+STATUS: Updating...
+/updates/tracks_lagunaseca_2020.06.16.01_2020.06.01.03.pkg
+... 84% overall
+package: tracks\lagunaseca\   toVersion: 2020.06.16.01  fromVersion: 2020.06.01.03   currentVersion: 2020.06.01.03   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/tracks_lagunaseca_2020.06.16.01_2020.06.01.03.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/tracks_lagunaseca_2020.06.16.01_2020.06.01.03.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/tracks_lagunaseca_2020.06.16.01_2020.06.01.03.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/tracks_lagunaseca_2020.06.16.01_2020.06.01.03.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/tracks_lagunaseca_2020.06.16.01_2020.06.01.03.pkg
+STATUS: Updating...
+/updates/tracks_lemans_2020.06.16.01_2020.06.05.01.pkg
+... 86% overall
+package: tracks\lemans\   toVersion: 2020.06.16.01  fromVersion: 2020.06.05.01   currentVersion: 2020.06.05.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/tracks_lemans_2020.06.16.01_2020.06.05.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/tracks_lemans_2020.06.16.01_2020.06.05.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/tracks_lemans_2020.06.16.01_2020.06.05.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/tracks_lemans_2020.06.16.01_2020.06.05.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/tracks_lemans_2020.06.16.01_2020.06.05.01.pkg
+STATUS: Updating...
+/updates/tracks_limerock_2019_2020.06.10.01_2020.06.01.03.pkg
+... 88% overall
+package: tracks\limerock\2019\   toVersion: 2020.06.10.01  fromVersion: 2020.06.01.03   currentVersion: 2020.06.01.03   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/tracks_limerock_2019_2020.06.10.01_2020.06.01.03.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/tracks_limerock_2019_2020.06.10.01_2020.06.01.03.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/tracks_limerock_2019_2020.06.10.01_2020.06.01.03.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/tracks_limerock_2019_2020.06.10.01_2020.06.01.03.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/tracks_limerock_2019_2020.06.10.01_2020.06.01.03.pkg
+STATUS: Updating...
+/updates/tracks_nurburgring_combined_2020.06.15.01_2020.05.22.01.pkg
+... 91% overall
+package: tracks\nurburgring\   toVersion: 2020.06.15.01  fromVersion: 2020.05.22.01   currentVersion: 2020.05.22.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/tracks_nurburgring_combined_2020.06.15.01_2020.05.22.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/tracks_nurburgring_combined_2020.06.15.01_2020.05.22.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/tracks_nurburgring_combined_2020.06.15.01_2020.05.22.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/tracks_nurburgring_combined_2020.06.15.01_2020.05.22.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/tracks_nurburgring_combined_2020.06.15.01_2020.05.22.01.pkg
+STATUS: Updating...
+/updates/tracks_roadatlanta_2020.06.10.01_2020.06.01.03.pkg
+... 93% overall
+package: tracks\roadatlanta\   toVersion: 2020.06.10.01  fromVersion: 2020.06.01.03   currentVersion: 2020.06.01.03   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/tracks_roadatlanta_2020.06.10.01_2020.06.01.03.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/tracks_roadatlanta_2020.06.10.01_2020.06.01.03.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/tracks_roadatlanta_2020.06.10.01_2020.06.01.03.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/tracks_roadatlanta_2020.06.10.01_2020.06.01.03.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/tracks_roadatlanta_2020.06.10.01_2020.06.01.03.pkg
+STATUS: Updating...
+/updates/updater_2020.06.16.01.pkg
+... 95% overall
+package: updater\   toVersion: 2020.06.16.01  fromVersion:    IGNORED
+Some package claimed to be an iRacingService dependant.  Must stop service(s)
+STATUS: Stopping iRacingService...
+
+...  0% 
+...  0% overall
+USS:IsRunning() iRacingService is running
+USS::Stop() asked service iRacingService to stop
+USS::Stop() Stopped service iRacingService
+USS:IsRunning() iRacingService is NOT running
+STATUS: Uninstalling iRacingService...
+
+USS:IsInstalled() iRacingService is installed
+USS:IsRunning() iRacingService is NOT running
+USS::Uninstall() Uninstalled service iRacingService
+STATUS: Stopping iRacingCommercialService...
+
+...  0% overall
+STATUS: Uninstalling iRacingCommercialService...
+
+STATUS: Updating...
+
+STATUS: Updating...
+/updates/system_2020.06.16.01_2020.06.05.02.pkg
+... 97% overall
+package: \   toVersion: 2020.06.16.01  fromVersion: 2020.06.05.02   currentVersion: 2020.06.05.02   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+STATUS: Updating... Creating new files
+... 25% /updates/system_2020.06.16.01_2020.06.05.02.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/system_2020.06.16.01_2020.06.05.02.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/system_2020.06.16.01_2020.06.05.02.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/system_2020.06.16.01_2020.06.05.02.pkg
+STATUS: Updating...
+/updates/cars_2020.06.15.01_2020.06.04.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_astonmartin_dbr9_2020.06.12.02_2020.06.05.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_audirs3lms_2020.06.10.01_2020.06.04.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_bmwm4gt4_2020.06.10.01_2020.06.05.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_c6r_2020.06.12.02_2020.06.05.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_dallarair18_2020.06.12.02_2020.06.05.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_dirtsprint_winged_2020.06.10.01_2020.06.04.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_fordgt_2020.06.12.02_2020.06.04.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_fr500s_2020.06.12.02_2020.06.05.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_hpdarx01c_2020.06.10.01_2020.06.04.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_indypropm18_2020.06.16.01_2020.06.04.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_mercedesamggt3_2020.06.12.02_2020.06.04.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_porsche718gt4_2020.06.12.02_2020.06.05.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_porsche919_2020.06.12.02_2020.06.05.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_rufrt12r_2020.06.12.02_2020.06.04.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_sprint_2020.06.10.01_2020.06.04.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_stockcars_2020.06.12.02_2020.06.04.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_stockcars_camarozl12018_2020.06.15.01_2020.06.05.02.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_stockcars_fordmustang2019_2020.06.15.01_2020.06.05.02.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_stockcars_toyotacamry_2020.06.15.01_2020.06.05.02.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_stockcars2_camaro2019_2020.06.15.01_2020.06.01.03.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_stockcars2_mustang2019_2020.06.15.01_2020.06.01.03.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_stockcars2_supra2019_2020.06.15.01_2020.06.01.03.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_streetstock_2020.06.10.01_2020.06.04.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_superlatemodel_2020.06.12.02_2020.06.04.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_trucks_fordf150_2020.06.15.01_2020.06.05.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_trucks_silverado2019_2020.06.15.01_2020.06.04.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_trucks_tundra2015_2020.06.15.01_2020.06.04.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_usf2000usf17_2020.06.16.01_2020.06.04.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_vwbeetlegrc_2020.06.12.02_2020.06.04.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/httproot_2020.06.15.01_2020.05.26.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/httproot_cars_bmwm4gt4_2020.06.10.01_2020.06.03.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/httproot_cars_dallarair18_2020.06.12.02_2020.05.26.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/httproot_cars_dirtsprint_winged_2020.06.10.01_2020.05.22.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/httproot_cars_stockcars_fordmustang2019_2020.06.10.01_2020.06.05.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/httproot_cars_trucks_fordf150_2020.06.12.02_2020.06.01.03.pkg
+...100% overall
+STATUS: Updating...
+/updates/httproot_cars_trucks_silverado2019_2020.06.12.02_2020.06.01.03.pkg
+...100% overall
+STATUS: Updating...
+/updates/tracks_2020.06.12.02_2020.06.01.03.pkg
+...100% overall
+STATUS: Updating...
+/updates/tracks_lagunaseca_2020.06.16.01_2020.06.01.03.pkg
+...100% overall
+STATUS: Updating...
+/updates/tracks_lemans_2020.06.16.01_2020.06.05.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/tracks_limerock_2019_2020.06.10.01_2020.06.01.03.pkg
+...100% overall
+STATUS: Updating...
+/updates/tracks_nurburgring_combined_2020.06.15.01_2020.05.22.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/tracks_roadatlanta_2020.06.10.01_2020.06.01.03.pkg
+...100% overall
+STATUS: Updating...
+/updates/updater_2020.06.16.01.pkg
+...100% overall
+package: updater\   toVersion: 2020.06.16.01  fromVersion:    IGNORED
+USS::Install() Installed service iRacingService
+USS::Start() Started service iRacingService
+Updater Thread Ended!
+UpdateState: Updater thread stopped, and OK return value - Complete.
+UpdateState: Switched to State_Complete
+CheckIfEACInstalled: Found <C:\Program Files (x86)\EasyAntiCheat\EasyAntiCheat.exe> - appears to be installed.
+===================
+2020-06-17 17:44:28
+============================================================
+

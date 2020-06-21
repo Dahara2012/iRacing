@@ -1,0 +1,26 @@
+
+
+============================================================
+S:\OtherGames\iRacing\updater\iRacingUpdater.tmp.exe
+2020-06-08 17:31:40
+===================
+OS: Maj: 6, Min: 2, SPMaj: 0, SPMin: 0; Windows 7 - x64
+** Program is running as a user with admin privs
+** Token is elevated
+** Token is elevated to Full
+
+updateMyself: mypath <S:\OtherGames\iRacing\updater>
+replaceFiles:  0 <S:\OtherGames\iRacing\updater\iRacingUpdater.exe> could not be opened for write <5>
+replaceFiles:  0 <S:\OtherGames\iRacing\updater\iRacingUpdater.exe> was read only, and changed to be writable
+replaceFiles:  0 <S:\OtherGames\iRacing\updater\iRacingUpdater.sgn> could not be opened for write <5>
+replaceFiles:  0 <S:\OtherGames\iRacing\updater\iRacingUpdater.sgn> was read only, and changed to be writable
+Copied <S:\OtherGames\iRacing\updater\iRacingUpdater.tmp.exe> to <S:\OtherGames\iRacing\updater\iRacingUpdater.exe>
+Copied <S:\OtherGames\iRacing\updater\iRacingUpdater.tmp.sgn> to <S:\OtherGames\iRacing\updater\iRacingUpdater.sgn>
+Copied <S:\OtherGames\iRacing\updater\version.txt.tmp> to <S:\OtherGames\iRacing\updater\version.txt>
+Successfully replaced old updater with new one.
+updateMyself: Launching new updater <S:\OtherGames\iRacing\updater\iRacingUpdater.exe> to continue installation
+updateMyself: Successfully launched new updater via CreateProcess
+===================
+2020-06-08 17:31:40
+============================================================
+

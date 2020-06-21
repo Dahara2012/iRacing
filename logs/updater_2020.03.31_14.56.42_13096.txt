@@ -1,0 +1,154 @@
+
+
+============================================================
+S:\OtherGames\iRacing\updater\iRacingUpdater.exe
+2020-03-31 14:56:42
+===================
+OS: Maj: 6, Min: 2, SPMaj: 0, SPMin: 0; Windows 7 - x64
+** Program is running as a user with admin privs
+** Token is elevated
+** Token is elevated to Full
+
+DeleteTempExe: I am <S:\OtherGames\iRacing\updater\iRacingUpdater.exe>
+DeleteTempExe: <S:\OtherGames\iRacing\updater\iRacingUpdater.tmp.exe> is readonly - attrs = 0x21
+DeleteTempExe: Removed temp exe <S:\OtherGames\iRacing\updater\iRacingUpdater.tmp.exe>
+DeleteTempExe: <S:\OtherGames\iRacing\updater\iRacingUpdater.tmp.sgn> is readonly - attrs = 0x21
+DeleteTempExe: Removed temp sgn <S:\OtherGames\iRacing\updater\iRacingUpdater.tmp.sgn>
+DeleteTempExe: <S:\OtherGames\iRacing\updater\version.txt.tmp> is readonly - attrs = 0x21
+DeleteTempExe: Removed temp ver <S:\OtherGames\iRacing\updater\version.txt.tmp>
+DeleteTempExe: exe, sgn and ver temps are now missing - done!
+UpdateState: All files downloaded - begin updating
+STATUS: Starting updater thread...
+
+UpdateState: Switched to State_Updating
+Updater Thread Started!
+STATUS: Updating thread started...
+
+PkgUpdater::SetRootPath("S:\OtherGames\iRacing\")
+STATUS: Preparing packages...
+
+File: /updates/system_2020.03.28.02_2020.03.26.01.pkg    Path: \                                        Version: 2020.03.28.02    fromVersion: 2020.03.26.01
+File: /updates/httproot_cars_porsche991rsr_2020.03.28.02_2020.03.23.01.pkg Path: httproot\cars\porsche991rsr\             Version: 2020.03.28.02    fromVersion: 2020.03.23.01
+File: /updates/httproot_cars_stockcars_fordfusion_2020.03.28.02_2020.03.23.01.pkg Path: httproot\cars\stockcars\fordfusion\      Version: 2020.03.28.02    fromVersion: 2020.03.23.01
+File: /updates/httproot_cars_stockcars2_camaro2019_2020.03.28.02_2020.03.23.01.pkg Path: httproot\cars\stockcars2\camaro2019\     Version: 2020.03.28.02    fromVersion: 2020.03.23.01
+File: /updates/updater_2020.03.28.02.pkg                 Path: updater\                                 Version: 2020.03.28.02    fromVersion: 
+STATUS: Checking for Updater packages...
+
+pkg up-to-date or old: /updates/updater_2020.03.28.02.pkg, current 2020.03.28.02
+STATUS: Verifying Downloaded Files...
+
+/updates/system_2020.03.28.02_2020.03.26.01.pkg
+/updates/httproot_cars_porsche991rsr_2020.03.28.02_2020.03.23.01.pkg
+... 20% overall
+/updates/httproot_cars_stockcars_fordfusion_2020.03.28.02_2020.03.23.01.pkg
+... 40% overall
+/updates/httproot_cars_stockcars2_camaro2019_2020.03.28.02_2020.03.23.01.pkg
+... 60% overall
+STATUS: Waiting for iRacingUI to exit...
+STATUS: Updating...
+
+...  0% overall
+STATUS: Updating...
+/updates/system_2020.03.28.02_2020.03.26.01.pkg
+package: \   toVersion: 2020.03.28.02  fromVersion: 2020.03.26.01   currentVersion: 2020.03.26.01   OK TO INSTALL
+STATUS: Updating...
+/updates/httproot_cars_porsche991rsr_2020.03.28.02_2020.03.23.01.pkg
+package: httproot\cars\porsche991rsr\   toVersion: 2020.03.28.02  fromVersion: 2020.03.23.01   currentVersion: 2020.03.23.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+STATUS: Updating... Creating new files
+... 25% /updates/httproot_cars_porsche991rsr_2020.03.28.02_2020.03.23.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/httproot_cars_porsche991rsr_2020.03.28.02_2020.03.23.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/httproot_cars_porsche991rsr_2020.03.28.02_2020.03.23.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/httproot_cars_porsche991rsr_2020.03.28.02_2020.03.23.01.pkg
+STATUS: Updating...
+/updates/httproot_cars_stockcars_fordfusion_2020.03.28.02_2020.03.23.01.pkg
+... 20% overall
+package: httproot\cars\stockcars\fordfusion\   toVersion: 2020.03.28.02  fromVersion: 2020.03.23.01   currentVersion: 2020.03.23.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/httproot_cars_stockcars_fordfusion_2020.03.28.02_2020.03.23.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/httproot_cars_stockcars_fordfusion_2020.03.28.02_2020.03.23.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/httproot_cars_stockcars_fordfusion_2020.03.28.02_2020.03.23.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/httproot_cars_stockcars_fordfusion_2020.03.28.02_2020.03.23.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/httproot_cars_stockcars_fordfusion_2020.03.28.02_2020.03.23.01.pkg
+STATUS: Updating...
+/updates/httproot_cars_stockcars2_camaro2019_2020.03.28.02_2020.03.23.01.pkg
+... 40% overall
+package: httproot\cars\stockcars2\camaro2019\   toVersion: 2020.03.28.02  fromVersion: 2020.03.23.01   currentVersion: 2020.03.23.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/httproot_cars_stockcars2_camaro2019_2020.03.28.02_2020.03.23.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/httproot_cars_stockcars2_camaro2019_2020.03.28.02_2020.03.23.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/httproot_cars_stockcars2_camaro2019_2020.03.28.02_2020.03.23.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/httproot_cars_stockcars2_camaro2019_2020.03.28.02_2020.03.23.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/httproot_cars_stockcars2_camaro2019_2020.03.28.02_2020.03.23.01.pkg
+STATUS: Updating...
+/updates/updater_2020.03.28.02.pkg
+... 60% overall
+package: updater\   toVersion: 2020.03.28.02  fromVersion:    IGNORED
+Some package claimed to be an iRacingService dependant.  Must stop service(s)
+STATUS: Stopping iRacingService...
+
+...  0% 
+...  0% overall
+USS:IsRunning() iRacingService is running
+USS::Stop() asked service iRacingService to stop
+USS::Stop() Stopped service iRacingService
+USS:IsRunning() iRacingService is NOT running
+STATUS: Uninstalling iRacingService...
+
+USS:IsInstalled() iRacingService is installed
+USS:IsRunning() iRacingService is NOT running
+USS::Uninstall() Uninstalled service iRacingService
+STATUS: Stopping iRacingCommercialService...
+
+...  0% overall
+STATUS: Uninstalling iRacingCommercialService...
+
+STATUS: Updating...
+
+STATUS: Updating...
+/updates/system_2020.03.28.02_2020.03.26.01.pkg
+... 80% overall
+package: \   toVersion: 2020.03.28.02  fromVersion: 2020.03.26.01   currentVersion: 2020.03.26.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+STATUS: Updating... Creating new files
+... 25% /updates/system_2020.03.28.02_2020.03.26.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/system_2020.03.28.02_2020.03.26.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/system_2020.03.28.02_2020.03.26.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/system_2020.03.28.02_2020.03.26.01.pkg
+STATUS: Updating...
+/updates/httproot_cars_porsche991rsr_2020.03.28.02_2020.03.23.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/httproot_cars_stockcars_fordfusion_2020.03.28.02_2020.03.23.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/httproot_cars_stockcars2_camaro2019_2020.03.28.02_2020.03.23.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/updater_2020.03.28.02.pkg
+...100% overall
+package: updater\   toVersion: 2020.03.28.02  fromVersion:    IGNORED
+USS::Install() Installed service iRacingService
+USS::Start() Started service iRacingService
+Updater Thread Ended!
+UpdateState: Updater thread stopped, and OK return value - Complete.
+UpdateState: Switched to State_Complete
+CheckIfEACInstalled: Found <C:\Program Files (x86)\EasyAntiCheat\EasyAntiCheat.exe> - appears to be installed.
+===================
+2020-03-31 15:00:40
+============================================================
+

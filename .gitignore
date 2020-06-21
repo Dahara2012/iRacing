@@ -1,0 +1,10 @@
+*.tga
+*.blap
+*.olap
+*.log
+*.rpy
+*.sto
+*.cfg
+*.yaml
+*.ibt
+.sync/

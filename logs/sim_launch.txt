@@ -1,0 +1,6 @@
+========== Failed to launch simulator ==========
+2020-03-18 20:41:51:
+Unexpected error. (DriverInit Error: 8)
+Timed out StartGameA after 2 seconds
+
+

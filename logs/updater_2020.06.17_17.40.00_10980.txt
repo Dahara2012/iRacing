@@ -1,0 +1,99 @@
+
+
+============================================================
+S:\OtherGames\iRacing\updater\iRacingUpdater.exe
+2020-06-17 17:40:00
+===================
+OS: Maj: 6, Min: 2, SPMaj: 0, SPMin: 0; Windows 7 - x64
+** Program is running as a user with admin privs
+** Token is elevated
+** Token is elevated to Full
+
+DeleteTempExe: I am <S:\OtherGames\iRacing\updater\iRacingUpdater.exe>
+DeleteTempExe: <S:\OtherGames\iRacing\updater\iRacingUpdater.tmp.exe> is missing - good!
+DeleteTempExe: <S:\OtherGames\iRacing\updater\iRacingUpdater.tmp.sgn> is missing - good!
+DeleteTempExe: <S:\OtherGames\iRacing\updater\version.txt.tmp> is missing - good!
+DeleteTempExe: exe, sgn and ver temps are now missing - done!
+UpdateState: Switched to State_Downloading
+UpdateState: All files downloaded and autoinstall - begin updating
+STATUS: Starting updater thread...
+
+UpdateState: Switched to State_Updating
+Updater Thread Started!
+STATUS: Updating thread started...
+
+PkgUpdater::SetRootPath("S:\OtherGames\iRacing\")
+STATUS: Preparing packages...
+
+File: /updates/system_2020.06.16.01_2020.06.05.02.pkg    Path: \                                        Version: 2020.06.16.01    fromVersion: 2020.06.05.02
+File: /updates/cars_2020.06.15.01_2020.06.04.01.pkg      Path: cars\                                    Version: 2020.06.15.01    fromVersion: 2020.06.04.01
+File: /updates/cars_astonmartin_dbr9_2020.06.12.02_2020.06.05.01.pkg Path: cars\astonmartin\dbr9\                   Version: 2020.06.12.02    fromVersion: 2020.06.05.01
+File: /updates/cars_audirs3lms_2020.06.10.01_2020.06.04.01.pkg Path: cars\audirs3lms\                         Version: 2020.06.10.01    fromVersion: 2020.06.04.01
+File: /updates/cars_bmwm4gt4_2020.06.10.01_2020.06.05.01.pkg Path: cars\bmwm4gt4\                           Version: 2020.06.10.01    fromVersion: 2020.06.05.01
+File: /updates/cars_c6r_2020.06.12.02_2020.06.05.01.pkg  Path: cars\c6r\                                Version: 2020.06.12.02    fromVersion: 2020.06.05.01
+File: /updates/cars_dallarair18_2020.06.12.02_2020.06.05.01.pkg Path: cars\dallarair18\                        Version: 2020.06.12.02    fromVersion: 2020.06.05.01
+File: /updates/cars_dirtsprint_winged_2020.06.10.01_2020.06.04.01.pkg Path: cars\dirtsprint\winged\                  Version: 2020.06.10.01    fromVersion: 2020.06.04.01
+File: /updates/cars_fordgt_2020.06.12.02_2020.06.04.01.pkg Path: cars\fordgt\                             Version: 2020.06.12.02    fromVersion: 2020.06.04.01
+File: /updates/cars_fr500s_2020.06.12.02_2020.06.05.01.pkg Path: cars\fr500s\                             Version: 2020.06.12.02    fromVersion: 2020.06.05.01
+File: /updates/cars_hpdarx01c_2020.06.10.01_2020.06.04.01.pkg Path: cars\hpdarx01c\                          Version: 2020.06.10.01    fromVersion: 2020.06.04.01
+File: /updates/cars_indypropm18_2020.06.16.01_2020.06.04.01.pkg Path: cars\indypropm18\                        Version: 2020.06.16.01    fromVersion: 2020.06.04.01
+File: /updates/cars_mercedesamggt3_2020.06.12.02_2020.06.04.01.pkg Path: cars\mercedesamggt3\                     Version: 2020.06.12.02    fromVersion: 2020.06.04.01
+File: /updates/cars_porsche718gt4_2020.06.12.02_2020.06.05.01.pkg Path: cars\porsche718gt4\                      Version: 2020.06.12.02    fromVersion: 2020.06.05.01
+File: /updates/cars_porsche919_2020.06.12.02_2020.06.05.01.pkg Path: cars\porsche919\                         Version: 2020.06.12.02    fromVersion: 2020.06.05.01
+File: /updates/cars_rufrt12r_2020.06.12.02_2020.06.04.01.pkg Path: cars\rufrt12r\                           Version: 2020.06.12.02    fromVersion: 2020.06.04.01
+File: /updates/cars_sprint_2020.06.10.01_2020.06.04.01.pkg Path: cars\sprint\                             Version: 2020.06.10.01    fromVersion: 2020.06.04.01
+File: /updates/cars_stockcars_2020.06.12.02_2020.06.04.01.pkg Path: cars\stockcars\                          Version: 2020.06.12.02    fromVersion: 2020.06.04.01
+File: /updates/cars_stockcars_camarozl12018_2020.06.15.01_2020.06.05.02.pkg Path: cars\stockcars\camarozl12018\            Version: 2020.06.15.01    fromVersion: 2020.06.05.02
+File: /updates/cars_stockcars_fordmustang2019_2020.06.15.01_2020.06.05.02.pkg Path: cars\stockcars\fordmustang2019\          Version: 2020.06.15.01    fromVersion: 2020.06.05.02
+File: /updates/cars_stockcars_toyotacamry_2020.06.15.01_2020.06.05.02.pkg Path: cars\stockcars\toyotacamry\              Version: 2020.06.15.01    fromVersion: 2020.06.05.02
+File: /updates/cars_stockcars2_camaro2019_2020.06.15.01_2020.06.01.03.pkg Path: cars\stockcars2\camaro2019\              Version: 2020.06.15.01    fromVersion: 2020.06.01.03
+File: /updates/cars_stockcars2_mustang2019_2020.06.15.01_2020.06.01.03.pkg Path: cars\stockcars2\mustang2019\             Version: 2020.06.15.01    fromVersion: 2020.06.01.03
+File: /updates/cars_stockcars2_supra2019_2020.06.15.01_2020.06.01.03.pkg Path: cars\stockcars2\supra2019\               Version: 2020.06.15.01    fromVersion: 2020.06.01.03
+File: /updates/cars_streetstock_2020.06.10.01_2020.06.04.01.pkg Path: cars\streetstock\                        Version: 2020.06.10.01    fromVersion: 2020.06.04.01
+File: /updates/cars_superlatemodel_2020.06.12.02_2020.06.04.01.pkg Path: cars\superlatemodel\                     Version: 2020.06.12.02    fromVersion: 2020.06.04.01
+File: /updates/cars_trucks_fordf150_2020.06.15.01_2020.06.05.01.pkg Path: cars\trucks\fordf150\                    Version: 2020.06.15.01    fromVersion: 2020.06.05.01
+File: /updates/cars_trucks_silverado2019_2020.06.15.01_2020.06.04.01.pkg Path: cars\trucks\silverado2019\               Version: 2020.06.15.01    fromVersion: 2020.06.04.01
+File: /updates/cars_trucks_tundra2015_2020.06.15.01_2020.06.04.01.pkg Path: cars\trucks\tundra2015\                  Version: 2020.06.15.01    fromVersion: 2020.06.04.01
+File: /updates/cars_usf2000usf17_2020.06.16.01_2020.06.04.01.pkg Path: cars\usf2000usf17\                       Version: 2020.06.16.01    fromVersion: 2020.06.04.01
+File: /updates/cars_vwbeetlegrc_2020.06.12.02_2020.06.04.01.pkg Path: cars\vwbeetlegrc\                        Version: 2020.06.12.02    fromVersion: 2020.06.04.01
+File: /updates/httproot_2020.06.15.01_2020.05.26.01.pkg  Path: httproot\                                Version: 2020.06.15.01    fromVersion: 2020.05.26.01
+File: /updates/httproot_cars_bmwm4gt4_2020.06.10.01_2020.06.03.01.pkg Path: httproot\cars\bmwm4gt4\                  Version: 2020.06.10.01    fromVersion: 2020.06.03.01
+File: /updates/httproot_cars_dallarair18_2020.06.12.02_2020.05.26.01.pkg Path: httproot\cars\dallarair18\               Version: 2020.06.12.02    fromVersion: 2020.05.26.01
+File: /updates/httproot_cars_dirtsprint_winged_2020.06.10.01_2020.05.22.01.pkg Path: httproot\cars\dirtsprint\winged\         Version: 2020.06.10.01    fromVersion: 2020.05.22.01
+File: /updates/httproot_cars_stockcars_fordmustang2019_2020.06.10.01_2020.06.05.01.pkg Path: httproot\cars\stockcars\fordmustang2019\ Version: 2020.06.10.01    fromVersion: 2020.06.05.01
+File: /updates/httproot_cars_trucks_fordf150_2020.06.12.02_2020.06.01.03.pkg Path: httproot\cars\trucks\fordf150\           Version: 2020.06.12.02    fromVersion: 2020.06.01.03
+File: /updates/httproot_cars_trucks_silverado2019_2020.06.12.02_2020.06.01.03.pkg Path: httproot\cars\trucks\silverado2019\      Version: 2020.06.12.02    fromVersion: 2020.06.01.03
+File: /updates/tracks_2020.06.12.02_2020.06.01.03.pkg    Path: tracks\                                  Version: 2020.06.12.02    fromVersion: 2020.06.01.03
+File: /updates/tracks_lagunaseca_2020.06.16.01_2020.06.01.03.pkg Path: tracks\lagunaseca\                       Version: 2020.06.16.01    fromVersion: 2020.06.01.03
+File: /updates/tracks_lemans_2020.06.16.01_2020.06.05.01.pkg Path: tracks\lemans\                           Version: 2020.06.16.01    fromVersion: 2020.06.05.01
+File: /updates/tracks_limerock_2019_2020.06.10.01_2020.06.01.03.pkg Path: tracks\limerock\2019\                    Version: 2020.06.10.01    fromVersion: 2020.06.01.03
+File: /updates/tracks_nurburgring_combined_2020.06.15.01_2020.05.22.01.pkg Path: tracks\nurburgring\                      Version: 2020.06.15.01    fromVersion: 2020.05.22.01
+File: /updates/tracks_roadatlanta_2020.06.10.01_2020.06.01.03.pkg Path: tracks\roadatlanta\                      Version: 2020.06.10.01    fromVersion: 2020.06.01.03
+File: /updates/updater_2020.06.16.01.pkg                 Path: updater\                                 Version: 2020.06.16.01    fromVersion: 
+STATUS: Checking for Updater packages...
+
+STATUS: Updating iRacingUpdater...
+
+Updating updater with S:\OtherGames\iRacing\downloads\updates\updater_2020.06.16.01.pkg
+Loading manifest from updater package
+Extract contents of updater package into temp dir
+Unpacking updater\iRacingUpdater.exe
+Found updater .exe <updater\iRacingUpdater.exe>
+Unpacking updater\iRacingUpdater.sgn
+Found updater .sgn <updater\iRacingUpdater.sgn>
+Unpacking updater\version.txt
+Found updater version.txt <updater\version.txt>
+Removed <S:\OtherGames\iRacing\updater\version.txt> so current updater is now 'stale'
+About to move new updater from extract dir to install dir (as temps)
+Moved <S:\OtherGames\iRacing\downloads\updates\updater_2020.06.16.01\updater\iRacingUpdater.exe> to <S:\OtherGames\iRacing\updater\iRacingUpdater.tmp.exe>
+Moved <S:\OtherGames\iRacing\downloads\updates\updater_2020.06.16.01\updater\iRacingUpdater.sgn> to <S:\OtherGames\iRacing\updater\iRacingUpdater.tmp.sgn>
+Moved <S:\OtherGames\iRacing\downloads\updates\updater_2020.06.16.01\updater\version.txt> to <S:\OtherGames\iRacing\updater\version.txt.tmp>
+Launching temp updater <S:\OtherGames\iRacing\updater\iRacingUpdater.tmp.exe> so current one can be replaced
+Successfully launched temp updater via CreateProcess
+Updater Thread Ended!
+UpdateState: Updater thread stopped, and OK return value - Complete.
+UpdateState: Switched to State_Complete
+===================
+2020-06-17 17:40:12
+============================================================
+

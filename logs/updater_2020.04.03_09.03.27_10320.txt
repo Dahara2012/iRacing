@@ -1,0 +1,114 @@
+
+
+============================================================
+S:\OtherGames\iRacing\updater\iRacingUpdater.exe
+2020-04-03 09:03:27
+===================
+OS: Maj: 6, Min: 2, SPMaj: 0, SPMin: 0; Windows 7 - x64
+** Program is running as a user with admin privs
+** Token is elevated
+** Token is elevated to Full
+
+DeleteTempExe: I am <S:\OtherGames\iRacing\updater\iRacingUpdater.exe>
+DeleteTempExe: <S:\OtherGames\iRacing\updater\iRacingUpdater.tmp.exe> is readonly - attrs = 0x21
+DeleteTempExe: Removed temp exe <S:\OtherGames\iRacing\updater\iRacingUpdater.tmp.exe>
+DeleteTempExe: <S:\OtherGames\iRacing\updater\iRacingUpdater.tmp.sgn> is readonly - attrs = 0x21
+DeleteTempExe: Removed temp sgn <S:\OtherGames\iRacing\updater\iRacingUpdater.tmp.sgn>
+DeleteTempExe: <S:\OtherGames\iRacing\updater\version.txt.tmp> is readonly - attrs = 0x21
+DeleteTempExe: Removed temp ver <S:\OtherGames\iRacing\updater\version.txt.tmp>
+DeleteTempExe: exe, sgn and ver temps are now missing - done!
+UpdateState: All files downloaded - begin updating
+STATUS: Starting updater thread...
+
+UpdateState: Switched to State_Updating
+Updater Thread Started!
+STATUS: Updating thread started...
+
+PkgUpdater::SetRootPath("S:\OtherGames\iRacing\")
+STATUS: Preparing packages...
+
+File: /updates/system_2020.04.02.03_2020.04.01.03.pkg    Path: \                                        Version: 2020.04.02.03    fromVersion: 2020.04.01.03
+File: /updates/cars_audir8gt3_2020.04.02.03_2020.04.01.01.pkg Path: cars\audir8gt3\                          Version: 2020.04.02.03    fromVersion: 2020.04.01.01
+File: /updates/updater_2020.04.02.03.pkg                 Path: updater\                                 Version: 2020.04.02.03    fromVersion: 
+STATUS: Checking for Updater packages...
+
+pkg up-to-date or old: /updates/updater_2020.04.02.03.pkg, current 2020.04.02.03
+STATUS: Verifying Downloaded Files...
+
+/updates/system_2020.04.02.03_2020.04.01.03.pkg
+/updates/cars_audir8gt3_2020.04.02.03_2020.04.01.01.pkg
+... 33% overall
+STATUS: Waiting for iRacingUI to exit...
+STATUS: Updating...
+
+...  0% overall
+STATUS: Updating...
+/updates/system_2020.04.02.03_2020.04.01.03.pkg
+package: \   toVersion: 2020.04.02.03  fromVersion: 2020.04.01.03   currentVersion: 2020.04.01.03   OK TO INSTALL
+STATUS: Updating...
+/updates/cars_audir8gt3_2020.04.02.03_2020.04.01.01.pkg
+package: cars\audir8gt3\   toVersion: 2020.04.02.03  fromVersion: 2020.04.01.01   currentVersion: 2020.04.01.01   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+STATUS: Updating... Creating new files
+... 25% /updates/cars_audir8gt3_2020.04.02.03_2020.04.01.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_audir8gt3_2020.04.02.03_2020.04.01.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_audir8gt3_2020.04.02.03_2020.04.01.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_audir8gt3_2020.04.02.03_2020.04.01.01.pkg
+STATUS: Updating...
+/updates/updater_2020.04.02.03.pkg
+... 33% overall
+package: updater\   toVersion: 2020.04.02.03  fromVersion:    IGNORED
+Some package claimed to be an iRacingService dependant.  Must stop service(s)
+STATUS: Stopping iRacingService...
+
+...  0% 
+...  0% overall
+USS:IsRunning() iRacingService is running
+USS::Stop() asked service iRacingService to stop
+USS::Stop() Stopped service iRacingService
+USS:IsRunning() iRacingService is NOT running
+STATUS: Uninstalling iRacingService...
+
+USS:IsInstalled() iRacingService is installed
+USS:IsRunning() iRacingService is NOT running
+USS::Uninstall() Uninstalled service iRacingService
+STATUS: Stopping iRacingCommercialService...
+
+...  0% overall
+STATUS: Uninstalling iRacingCommercialService...
+
+STATUS: Updating...
+
+STATUS: Updating...
+/updates/system_2020.04.02.03_2020.04.01.03.pkg
+... 66% overall
+package: \   toVersion: 2020.04.02.03  fromVersion: 2020.04.01.03   currentVersion: 2020.04.01.03   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+STATUS: Updating... Creating new files
+... 25% /updates/system_2020.04.02.03_2020.04.01.03.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/system_2020.04.02.03_2020.04.01.03.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/system_2020.04.02.03_2020.04.01.03.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/system_2020.04.02.03_2020.04.01.03.pkg
+STATUS: Updating...
+/updates/cars_audir8gt3_2020.04.02.03_2020.04.01.01.pkg
+...100% overall
+STATUS: Updating...
+/updates/updater_2020.04.02.03.pkg
+...100% overall
+package: updater\   toVersion: 2020.04.02.03  fromVersion:    IGNORED
+USS::Install() Installed service iRacingService
+USS::Start() Started service iRacingService
+Updater Thread Ended!
+UpdateState: Updater thread stopped, and OK return value - Complete.
+UpdateState: Switched to State_Complete
+CheckIfEACInstalled: Found <C:\Program Files (x86)\EasyAntiCheat\EasyAntiCheat.exe> - appears to be installed.
+===================
+2020-04-03 09:03:57
+============================================================
+

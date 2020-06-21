@@ -1,0 +1,108 @@
+
+
+============================================================
+S:\OtherGames\iRacing\updater\iRacingUpdater.exe
+2020-04-01 22:15:07
+===================
+OS: Maj: 6, Min: 2, SPMaj: 0, SPMin: 0; Windows 7 - x64
+** Program is running as a user with admin privs
+** Token is elevated
+** Token is elevated to Full
+
+DeleteTempExe: I am <S:\OtherGames\iRacing\updater\iRacingUpdater.exe>
+DeleteTempExe: <S:\OtherGames\iRacing\updater\iRacingUpdater.tmp.exe> is missing - good!
+DeleteTempExe: <S:\OtherGames\iRacing\updater\iRacingUpdater.tmp.sgn> is missing - good!
+DeleteTempExe: <S:\OtherGames\iRacing\updater\version.txt.tmp> is missing - good!
+DeleteTempExe: exe, sgn and ver temps are now missing - done!
+UpdateState: All files downloaded - begin updating
+STATUS: Starting updater thread...
+
+UpdateState: Switched to State_Updating
+Updater Thread Started!
+STATUS: Updating thread started...
+
+PkgUpdater::SetRootPath("S:\OtherGames\iRacing\")
+STATUS: Preparing packages...
+
+File: /updates/cars_stockcars_camarozl12018_2020.03.28.02_2020.03.25.02.pkg Path: cars\stockcars\camarozl12018\            Version: 2020.03.28.02    fromVersion: 2020.03.25.02
+File: /updates/cars_stockcars_fordmustang2019_2020.03.28.02_2020.03.25.02.pkg Path: cars\stockcars\fordmustang2019\          Version: 2020.03.28.02    fromVersion: 2020.03.25.02
+File: /updates/cars_stockcars_toyotacamry_2020.03.28.02_2020.03.25.02.pkg Path: cars\stockcars\toyotacamry\              Version: 2020.03.28.02    fromVersion: 2020.03.25.02
+File: /updates/cars_trucks_tundra2015_2020.03.28.02_2020.03.02.02.pkg Path: cars\trucks\tundra2015\                  Version: 2020.03.28.02    fromVersion: 2020.03.02.02
+STATUS: Checking for Updater packages...
+
+STATUS: Verifying Downloaded Files...
+
+/updates/cars_stockcars_camarozl12018_2020.03.28.02_2020.03.25.02.pkg
+/updates/cars_stockcars_fordmustang2019_2020.03.28.02_2020.03.25.02.pkg
+... 25% overall
+/updates/cars_stockcars_toyotacamry_2020.03.28.02_2020.03.25.02.pkg
+... 50% overall
+/updates/cars_trucks_tundra2015_2020.03.28.02_2020.03.02.02.pkg
+... 75% overall
+STATUS: Waiting for iRacingUI to exit...
+STATUS: Waiting for iRacingUI to exit...
+STATUS: Updating...
+
+...  0% overall
+STATUS: Updating...
+/updates/cars_stockcars_camarozl12018_2020.03.28.02_2020.03.25.02.pkg
+package: cars\stockcars\camarozl12018\   toVersion: 2020.03.28.02  fromVersion: 2020.03.25.02   currentVersion: 2020.03.25.02   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+STATUS: Updating... Creating new files
+... 25% /updates/cars_stockcars_camarozl12018_2020.03.28.02_2020.03.25.02.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_stockcars_camarozl12018_2020.03.28.02_2020.03.25.02.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_stockcars_camarozl12018_2020.03.28.02_2020.03.25.02.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_stockcars_camarozl12018_2020.03.28.02_2020.03.25.02.pkg
+STATUS: Updating...
+/updates/cars_stockcars_fordmustang2019_2020.03.28.02_2020.03.25.02.pkg
+... 25% overall
+package: cars\stockcars\fordmustang2019\   toVersion: 2020.03.28.02  fromVersion: 2020.03.25.02   currentVersion: 2020.03.25.02   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_stockcars_fordmustang2019_2020.03.28.02_2020.03.25.02.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_stockcars_fordmustang2019_2020.03.28.02_2020.03.25.02.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_stockcars_fordmustang2019_2020.03.28.02_2020.03.25.02.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_stockcars_fordmustang2019_2020.03.28.02_2020.03.25.02.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_stockcars_fordmustang2019_2020.03.28.02_2020.03.25.02.pkg
+STATUS: Updating...
+/updates/cars_stockcars_toyotacamry_2020.03.28.02_2020.03.25.02.pkg
+... 50% overall
+package: cars\stockcars\toyotacamry\   toVersion: 2020.03.28.02  fromVersion: 2020.03.25.02   currentVersion: 2020.03.25.02   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_stockcars_toyotacamry_2020.03.28.02_2020.03.25.02.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_stockcars_toyotacamry_2020.03.28.02_2020.03.25.02.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_stockcars_toyotacamry_2020.03.28.02_2020.03.25.02.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_stockcars_toyotacamry_2020.03.28.02_2020.03.25.02.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_stockcars_toyotacamry_2020.03.28.02_2020.03.25.02.pkg
+STATUS: Updating...
+/updates/cars_trucks_tundra2015_2020.03.28.02_2020.03.02.02.pkg
+... 75% overall
+package: cars\trucks\tundra2015\   toVersion: 2020.03.28.02  fromVersion: 2020.03.02.02   currentVersion: 2020.03.02.02   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_trucks_tundra2015_2020.03.28.02_2020.03.02.02.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_trucks_tundra2015_2020.03.28.02_2020.03.02.02.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_trucks_tundra2015_2020.03.28.02_2020.03.02.02.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_trucks_tundra2015_2020.03.28.02_2020.03.02.02.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_trucks_tundra2015_2020.03.28.02_2020.03.02.02.pkg
+Updater Thread Ended!
+UpdateState: Updater thread stopped, and OK return value - Complete.
+UpdateState: Switched to State_Complete
+CheckIfEACInstalled: Found <C:\Program Files (x86)\EasyAntiCheat\EasyAntiCheat.exe> - appears to be installed.
+===================
+2020-04-01 22:15:33
+============================================================
+

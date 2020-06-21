@@ -1,0 +1,59 @@
+
+
+============================================================
+S:\OtherGames\iRacing\updater\iRacingUpdater.exe
+2020-03-18 15:32:56
+===================
+OS: Maj: 6, Min: 2, SPMaj: 0, SPMin: 0; Windows 7 - x64
+** Program is running as a user with admin privs
+** Token is elevated
+** Token is elevated to Full
+
+DeleteTempExe: I am <S:\OtherGames\iRacing\updater\iRacingUpdater.exe>
+DeleteTempExe: <S:\OtherGames\iRacing\updater\iRacingUpdater.tmp.exe> is missing - good!
+DeleteTempExe: <S:\OtherGames\iRacing\updater\iRacingUpdater.tmp.sgn> is missing - good!
+DeleteTempExe: <S:\OtherGames\iRacing\updater\version.txt.tmp> is missing - good!
+DeleteTempExe: exe, sgn and ver temps are now missing - done!
+UpdateState: All files downloaded - begin updating
+STATUS: Starting updater thread...
+
+UpdateState: Switched to State_Updating
+Updater Thread Started!
+STATUS: Updating thread started...
+
+PkgUpdater::SetRootPath("S:\OtherGames\iRacing\")
+STATUS: Preparing packages...
+
+File: /updates/system_2020.03.17.02_2020.03.09.01.pkg    Path: \                                        Version: 2020.03.17.02    fromVersion: 2020.03.09.01
+File: /updates/cars_hpdarx01c_2020.03.16.01_2020.03.09.01.pkg Path: cars\hpdarx01c\                          Version: 2020.03.16.01    fromVersion: 2020.03.09.01
+File: /updates/cars_stockcars_camarozl12018_2020.03.17.02_2020.03.09.01.pkg Path: cars\stockcars\camarozl12018\            Version: 2020.03.17.02    fromVersion: 2020.03.09.01
+File: /updates/cars_stockcars_fordmustang2019_2020.03.17.02_2020.03.09.01.pkg Path: cars\stockcars\fordmustang2019\          Version: 2020.03.17.02    fromVersion: 2020.03.09.01
+File: /updates/cars_stockcars_toyotacamry_2020.03.17.02_2020.03.09.01.pkg Path: cars\stockcars\toyotacamry\              Version: 2020.03.17.02    fromVersion: 2020.03.09.01
+File: /updates/updater_2020.03.17.02.pkg                 Path: updater\                                 Version: 2020.03.17.02    fromVersion: 
+STATUS: Checking for Updater packages...
+
+STATUS: Updating iRacingUpdater...
+
+Updating updater with S:\OtherGames\iRacing\downloads\updates\updater_2020.03.17.02.pkg
+Loading manifest from updater package
+Extract contents of updater package into temp dir
+Unpacking updater\iRacingUpdater.exe
+Found updater .exe <updater\iRacingUpdater.exe>
+Unpacking updater\iRacingUpdater.sgn
+Found updater .sgn <updater\iRacingUpdater.sgn>
+Unpacking updater\version.txt
+Found updater version.txt <updater\version.txt>
+Removed <S:\OtherGames\iRacing\updater\version.txt> so current updater is now 'stale'
+About to move new updater from extract dir to install dir (as temps)
+Moved <S:\OtherGames\iRacing\downloads\updates\updater_2020.03.17.02\updater\iRacingUpdater.exe> to <S:\OtherGames\iRacing\updater\iRacingUpdater.tmp.exe>
+Moved <S:\OtherGames\iRacing\downloads\updates\updater_2020.03.17.02\updater\iRacingUpdater.sgn> to <S:\OtherGames\iRacing\updater\iRacingUpdater.tmp.sgn>
+Moved <S:\OtherGames\iRacing\downloads\updates\updater_2020.03.17.02\updater\version.txt> to <S:\OtherGames\iRacing\updater\version.txt.tmp>
+Launching temp updater <S:\OtherGames\iRacing\updater\iRacingUpdater.tmp.exe> so current one can be replaced
+Successfully launched temp updater via CreateProcess
+Updater Thread Ended!
+UpdateState: Updater thread stopped, and OK return value - Complete.
+UpdateState: Switched to State_Complete
+===================
+2020-03-18 15:32:56
+============================================================
+
